@@ -4,4 +4,4 @@ Welcome! In this repository you will find the code for all examples throughout t
 
 Through the visually educational nature of this book and with almost 200 custom made figures, learn the practical tools and concepts you need to use Python Language today!
 
-<img width="256" height="384" alt="Book_cover" src="https://github.com/user-attachments/assets/1cec9827-6ac5-4c9d-9c03-dc8cadb50f0e" />
+<img width="1024" height="1536" alt="Book_cover" src="https://github.com/user-attachments/assets/4deefda4-da0d-465f-820d-8acde41c9fd4" />
