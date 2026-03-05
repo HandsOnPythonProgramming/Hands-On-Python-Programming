@@ -1,6 +1,6 @@
 ![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)
 
-Welcome! In this repository you will find the code for all examples throughout the book Hands-On Python Programming written by [Oleg N. Starovoytov](https://scholar.google.com/citations=en) and [Mark A. Starovoytov](https://scholar.google.com/citations=en) which we playfully dubbed:
+Welcome! In this repository you will find the code for all examples throughout the book Hands-On Python Programming written by [Oleg N. Starovoytov](https://scholar.google.com/citations=en) and [Mark A. Starovoytov](https://scholar.google.com/citations=en) which we titled as
 
 <p align="center"><b>"Hands-On Python Programming"</b></p>
 
