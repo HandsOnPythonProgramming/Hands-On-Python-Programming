@@ -1,9 +1,13 @@
 ![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)
 
-Welcome! In this repository you will find the code for all examples throughout the book Hands-On Python Programming written by [Oleg N. Starovoytov](https://scholar.google.com/citations=en) and [Mark A. Starovoytov](https://scholar.google.com/citations=en) which we titled as
+This repository contains the source code for all examples presented in the book Hands-On Python Programming by [Oleg N. Starovoytov](https://scholar.google.com/citations=en) and [Mark A. Starovoytov](https://scholar.google.com/citations=en).
 
-<p align="center"><b>"Hands-On Python Programming"</b></p>
+Hands-On Python Programming introduces the Python programming language through a practical, hands-on approach designed to help readers quickly develop real programming skills. The book focuses on building a clear understanding of fundamental programming concepts while guiding readers through the essential tools, techniques, and workflows used in modern Python development.
 
-Hands-On Python Programming introduces Python through a practical approach, helping you quickly learn the essential tools, concepts, and techniques needed to start programming.
+Throughout the book, concepts are explained using visual illustrations and carefully designed examples that emphasize clarity and practical application. Each chapter provides step-by-step code demonstrations that allow readers to experiment with Python and reinforce their understanding through direct practice.
 
-<img width="256" height="384" alt="Book_cover" src="https://github.com/user-attachments/assets/4deefda4-da0d-465f-820d-8acde41c9fd4" />
+The code provided in this repository corresponds to the examples and exercises discussed in the book and is intended to help readers reproduce results, explore variations of the programs, and deepen their understanding of Python programming. These examples cover a wide range of foundational topics, including variables, data structures, control flow, functions, and practical problem-solving techniques.
+
+By working through the examples in this repository alongside the book, readers can develop a strong foundation in Python and gain the confidence needed to write clear, effective, and maintainable code.
+
+<img width="256" height="384" alt="Book_cover" src="https://github.com/user-attachments/assets/4deefda4-da0d-465f-820d-8acde41c9fd4" /
