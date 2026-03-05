@@ -4,6 +4,6 @@ Welcome! In this repository you will find the code for all examples throughout t
 
 <p align="center"><b>"Hands-On Python Programming"</b></p>
 
-Through the visually educational nature of this book and with almost 200 custom made figures, learn the practical tools and concepts you need to use Python Language today!
+Hands-On Python Programming introduces Python through a practical approach, helping you quickly learn the essential tools, concepts, and techniques needed to start programming.
 
 <img width="256" height="384" alt="Book_cover" src="https://github.com/user-attachments/assets/4deefda4-da0d-465f-820d-8acde41c9fd4" />
