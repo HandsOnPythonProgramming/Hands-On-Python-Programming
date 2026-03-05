@@ -8,4 +8,4 @@ The code provided in this repository corresponds to the examples and exercises d
 
 By working through the examples in this repository alongside the book, readers can develop a strong foundation in Python and gain the confidence needed to write clear, effective, and maintainable code.
 
-<img width="1024" height="1536" alt="Book_cover" src="https://github.com/user-attachments/assets/fa0b7afa-26b0-4d42-8f83-f9bc8918b48b" />
+<img width="256" height="384" alt="Book_cover" src="https://github.com/user-attachments/assets/fa0b7afa-26b0-4d42-8f83-f9bc8918b48b" />
