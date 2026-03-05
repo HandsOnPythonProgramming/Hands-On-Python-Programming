@@ -4,10 +4,8 @@ This repository contains the source code for all examples presented in the book 
 
 Hands-On Python Programming introduces the Python programming language through a practical, hands-on approach designed to help readers quickly develop real programming skills. The book focuses on building a clear understanding of fundamental programming concepts while guiding readers through the essential tools, techniques, and workflows used in modern Python development.
 
-Throughout the book, concepts are explained using visual illustrations and carefully designed examples that emphasize clarity and practical application. Each chapter provides step-by-step code demonstrations that allow readers to experiment with Python and reinforce their understanding through direct practice.
-
 The code provided in this repository corresponds to the examples and exercises discussed in the book and is intended to help readers reproduce results, explore variations of the programs, and deepen their understanding of Python programming. These examples cover a wide range of foundational topics, including variables, data structures, control flow, functions, and practical problem-solving techniques.
 
 By working through the examples in this repository alongside the book, readers can develop a strong foundation in Python and gain the confidence needed to write clear, effective, and maintainable code.
 
-<img width="256" height="384" alt="Book_cover" src="https://github.com/user-attachments/assets/4deefda4-da0d-465f-820d-8acde41c9fd4" /
+<img width="1024" height="1536" alt="Book_cover" src="https://github.com/user-attachments/assets/fa0b7afa-26b0-4d42-8f83-f9bc8918b48b" />
