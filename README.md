@@ -1,3 +1,5 @@
+[![]]"https://colab.research.google.com/drive/1gLm4DMYCh8pnl0uW6byT6Idh6eSx_vuC"
+
 Welcome! In this repository you will find the code for all examples throughout the book Hands-On Python Programming written by [Oleg N. Starovoytov](https://scholar.google.com/citations=en) and [Mark A. Starovoytov](https://scholar.google.com/citations=en) which we playfully dubbed:
 
 <b>"Hands-On Python Programming"</b>
