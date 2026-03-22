@@ -1,6 +1,6 @@
 ![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)
 
-This repository contains the source code for all examples presented in the book Hands-On Python Programming by [Oleg N. Starovoytov]([https://scholar.google.com/citations?user=CSYixUIAAAAJ&hl=en]) and [Mark A. Starovoytov](https://scholar.google.com/citations=en).
+This repository contains the source code for all examples presented in the book Hands-On Python Programming by [Oleg N. Starovoytov](https://scholar.google.com/citations?user=CSYixUIAAAAJ&hl=en) and [Mark A. Starovoytov](https://scholar.google.com/citations=en).
 
 Hands-On Python Programming introduces the Python programming language through a practical, hands-on approach designed to help readers quickly develop real programming skills. The book focuses on building a clear understanding of fundamental programming concepts while guiding readers through the essential tools, techniques, and workflows used in modern Python development.
 
