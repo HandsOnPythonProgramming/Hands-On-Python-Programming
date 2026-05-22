@@ -1,4 +1,7 @@
-![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg) 
+ "<a href=\"https://github.com/HandsOnPythonProgramming/Hands-On-Python-Programming\"><img src=\"https://img.shields.io/badge/GitHub%20Repository-black?logo=github\"></a>\n",
+        "[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](Hands-On-Python-Programming)\n",
+        "<a href=\"https://openondemand.org/\" target=\"_parent\"><img src=\"https://img.shields.io/badge/Open%20OnDemand-HPC-blue\" alt=\"Open OnDemand\"/></a>\n",
+        "\n",
 
 This repository contains the source code for all examples presented in the book Hands-On-Python-Programming.
 
