@@ -13,7 +13,7 @@ By working through the examples in this repository alongside the book, readers c
 <img width="256" height="384" alt="Book_cover" src="https://github.com/user-attachments/assets/fa0b7afa-26b0-4d42-8f83-f9bc8918b48b" />
 <H1> Table of Contents </H1>
 
-We suggest running all examples on [Google Colab](https://colab.research.google.com/). All examples are built and tested using [Google Colab](https://colab.research.google.com/), so it should be the most stable platform. However, you can also use [Jupyter Notebook](https://jupyter.org) to run all examples. 
+The workflows and notebooks presented in this book are intended for students with little or no prior programming experience. All examples are compatible with both [Google Colab](https://colab.research.google.com/) and [Jupyter Notebook](https://jupyter.org/). All example notebooks can be directly uploaded and executed on the HPC system through [Open OnDemand (OOD)](https://openondemand.org/).
 
 | Chapter  | Notebook  |
 |---|---|
