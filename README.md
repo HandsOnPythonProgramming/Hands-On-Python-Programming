@@ -2,6 +2,8 @@
 
 ![Jupyter](https://jupyter.org/assets/homepage/main-logo.svg)
 
+![Open OnDemand](https://openondemand.org/wp-content/uploads/2022/05/Open-OnDemand-Logo.png)
+
 This repository contains the source code for all examples presented in the book Hands-On-Python-Programming.
 
 Hands-On-Python-Programming introduces the Python programming language through a practical, hands-on approach designed to help readers quickly develop real programming skills. The book focuses on building a clear understanding of fundamental programming concepts while guiding readers through the essential tools, techniques, and workflows used in modern Python development.
