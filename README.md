@@ -11,7 +11,8 @@ By working through the examples in this repository alongside the book, readers c
 <img width="256" height="384" alt="Book_cover" src="https://github.com/user-attachments/assets/fa0b7afa-26b0-4d42-8f83-f9bc8918b48b" />
 <H1> Table of Contents </H1>
 
-We suggest running all examples on Google Colab. All examples are built and tested using Google Colab, so it should be the most stable platform. However, you can use Python . 
+We suggest running all examples on Google Colab. All examples are built and tested using Google Colab, so it should be the most stable platform. However, you can also use ! [Jupyter Notebook]![Jupyter](https://jupyter.org/assets/homepage/main-logo.svg)
+to run all examples. 
 
 | Chapter  | Notebook  |
 |---|---|
