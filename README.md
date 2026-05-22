@@ -27,6 +27,4 @@ We suggest running all examples on Google Colab. All examples are built and test
 | Chapter 10: Miscellaneous  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]()  |
 
 > [!TIP]
-> You can check the [setup](.setup/) folder for a quick-start guide to install all packages locally and you can check the [conda](.setup/conda/) folder for a complete guide on how to setup your environment, including conda and PyTorch installation.
-> Note that the depending on your OS, Python version, and dependencies your results might be slightly differ. However, they
-> should this be similar to the examples in the book. 
+> We recommend using Google Colab for all examples because it requires no local installation and provides a stable preconfigured environment. Always save copies of your notebooks before making major modifications to the code. Run notebook cells sequentially from top to bottom to avoid dependency and variable errors. Different Python package versions may produce slightly different results. Using the versions listed in this book is recommended.
