@@ -24,7 +24,7 @@ The workflows and notebooks presented in this book are intended for students wit
 | Chapter  | Notebook  |
 |---|---|
 | Chapter 1: Introduction | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]([https://colab.research.google.com/drive/1LuqUIC1qBXeMU_lhSNAC1I05iGhyYkx5]([https://colab.research.google.com/drive/1baeYHu1PyUGktt8khEksilVWJ1y8jM1e#scrollTo=IIB88iwPO5F-])  |
-| Chapter 2: Programming Basics  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1LuqUIC1qBXeMU_lhSNAC1I05iGhyYkx5)  |
+| Chapter 2: Programming Basics  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1LuqUIC1qBXeMU_lhSNAC1I05iGhyYkx5)(https://colab.research.google.com/drive/1KkuCVdDRiKAT6W6i9YdM-nIgklCQs0Z8#scrollTo=v1p1Jg8o0t0h)  |
 | Chapter 3: Operators  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]() |
 | Chapter 4: Data Collections  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]()  |
 | Chapter 5: Control Flow  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]() |
