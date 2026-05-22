@@ -1,6 +1,6 @@
 ![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)
 
-This repository contains the source code for all examples presented in the book Hands-On Python Programming by [Oleg N. Starovoytov](https://scholar.google.com/citations?user=CSYixUIAAAAJ&hl=en) and [Mark A. Starovoytov](https://scholar.google.com/citations?user=9xNfbWUAAAAJ&hl=en).
+This repository contains the source code for all examples presented in the book Hands-On Python Programming.
 
 Hands-On Python Programming introduces the Python programming language through a practical, hands-on approach designed to help readers quickly develop real programming skills. The book focuses on building a clear understanding of fundamental programming concepts while guiding readers through the essential tools, techniques, and workflows used in modern Python development.
 
@@ -15,18 +15,18 @@ We advise to run all examples through Google Colab for the easiest setup. Google
 
 | Chapter  | Notebook  |
 |---|---|
-| Chapter 1: Introduction to Language Models  | [![Open In Colab]()   |
-| Chapter 2: Tokens and Embeddings  | [![Open In Colab]()  |
-| Chapter 3: Looking Inside Transformer LLMs  | [![Open In Colab]()  |
-| Chapter 4: Text Classification  | [![Open In Colab]()  |
-| Chapter 5: Text Clustering and Topic Modeling  | [![Open In Colab]()]()  |
-| Chapter 6: Prompt Engineering  | [![Open In Colab]()  |
-| Chapter 7: Advanced Text Generation Techniques and Tools  | [![Open In Colab]()]()  |
-| Chapter 8: Semantic Search and Retrieval-Augmented Generation  | [![Open In Colab]()]()  |
+| Chapter 1: Introduction to Language Models  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)   |
+| Chapter 2: Tokens and Embeddings  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)  |
+| Chapter 3: Looking Inside Transformer LLMs  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)  |
+| Chapter 4: Text Classification  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)  |
+| Chapter 5: Text Clustering and Topic Modeling  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]()  |
+| Chapter 6: Prompt Engineering  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)  |
+| Chapter 7: Advanced Text Generation Techniques and Tools  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)  |
+| Chapter 8: Semantic Search and Retrieval-Augmented Generation  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)  |
 | Chapter 9: Multimodal Large Language Models  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]()  |
-| Chapter 10: Creating Text Embedding Models  | [![Open In Colab]()  |
+| Chapter 10: Creating Text Embedding Models  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)  |
 | Chapter 11: Fine-tuning Representation Models for Classification  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]()  |
-| Chapter 12: Fine-tuning Generation Models  | [![Open In Colab]()  |
+| Chapter 12: Fine-tuning Generation Models  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)  |
 
 > [!TIP]
 > You can check the [setup](.setup/) folder for a quick-start guide to install all packages locally and you can check the [conda](.setup/conda/) folder for a complete guide on how to setup your environment, including conda and PyTorch installation.
