@@ -12,7 +12,6 @@ By working through the examples in this repository alongside the book, readers c
 <H1> Table of Contents </H1>
 
 We suggest running all examples on Google Colab. All examples are built and tested using Google Colab, so it should be the most stable platform. However, you can also use [Jupyter Notebook](https://jupyter.org) to run all examples. 
-to run all examples. 
 
 | Chapter  | Notebook  |
 |---|---|
