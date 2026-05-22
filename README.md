@@ -1,4 +1,4 @@
-![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg) ![Jupyter](https://jupyter.org/assets/homepage/main-logo.svg) ![Open OnDemand](https://raw.githubusercontent.com/OSC/ondemand/master/apps/dashboard/public/favicon.ico)
+![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg) 
 
 This repository contains the source code for all examples presented in the book Hands-On-Python-Programming.
 
@@ -28,3 +28,8 @@ The workflows and notebooks presented in this book are intended for students wit
 
 > [!TIP]
 > We recommend using [Google Colab](https://colab.research.google.com/) and [Jupyter Notebook](https://jupyter.org/) for all examples because it requires no local installation and provides a stable preconfigured environment. Always save copies of your notebooks before making major modifications to the code. Run notebook cells sequentially from top to bottom to avoid dependency and variable errors. Different Python package versions may produce slightly different results. Using the versions listed in this book is recommended.
+
+![Jupyter](https://jupyter.org/assets/homepage/main-logo.svg) 
+
+
+<img src="https://openondemand.org/wp-content/uploads/2022/05/Open-OnDemand-Logo.png" width="20"> [Open OnDemand (OOD)](https://openondemand.org/)
