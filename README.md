@@ -31,4 +31,4 @@ The workflows and notebooks presented in this book are intended for students wit
 
 ![Jupyter](https://jupyter.org/assets/homepage/main-logo.svg) 
 
-![Open OnDemand Logo](https://openondemand.org)
+![Open OnDemand](https://openondemand.org)
