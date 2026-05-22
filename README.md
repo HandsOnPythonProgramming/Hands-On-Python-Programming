@@ -1,4 +1,5 @@
-<a href=\"https://github.com/HandsOnPythonProgramming/Hands-On-Python-Programming\"><img src=\"https://img.shields.io/badge/GitHub%20Repository-black?logo=github\"></a>
+![Git Hub] ("https://github.com/HandsOnPythonProgramming/Hands-On-Python-Programming)]    
+img src=\"https://img.shields.io/badge/GitHub%20Repository-black?logo=github\"
 
 ![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](Hands-On-Python-Programming)
 ![Open OnDemand]("https://openondemand.org/\" target=\"_parent\"><img src=\"https://img.shields.io/badge/Open%20OnDemand-HPC-blue\" alt=\"Open OnDemand\"/>)
