@@ -1,5 +1,7 @@
 ![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)
 
+![Jupyter](https://jupyter.org/assets/homepage/main-logo.svg)
+
 This repository contains the source code for all examples presented in the book Hands-On-Python-Programming.
 
 Hands-On-Python-Programming introduces the Python programming language through a practical, hands-on approach designed to help readers quickly develop real programming skills. The book focuses on building a clear understanding of fundamental programming concepts while guiding readers through the essential tools, techniques, and workflows used in modern Python development.
@@ -11,7 +13,7 @@ By working through the examples in this repository alongside the book, readers c
 <img width="256" height="384" alt="Book_cover" src="https://github.com/user-attachments/assets/fa0b7afa-26b0-4d42-8f83-f9bc8918b48b" />
 <H1> Table of Contents </H1>
 
-We suggest running all examples on Google Colab. All examples are built and tested using Google Colab, so it should be the most stable platform. However, you can also use [Jupyter Notebook](https://jupyter.org) to run all examples. 
+We suggest running all examples on [Google Colab](https://colab.research.google.com/). All examples are built and tested using [Google Colab](https://colab.research.google.com/), so it should be the most stable platform. However, you can also use [Jupyter Notebook](https://jupyter.org) to run all examples. 
 
 | Chapter  | Notebook  |
 |---|---|
