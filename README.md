@@ -15,17 +15,17 @@ The workflows and notebooks presented in this book are intended for students wit
 
 | Chapter  | Notebook  |
 |---|---|
-| Chapter 1: 
-| ChProgramming Basics  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1LuqUIC1qBXeMU_lhSNAC1I05iGhyYkx5)  |
-| Chapter 2: Operators  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]() |
-| Chapter 3: Data Collections  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]()  |
-| Chapter 4: Control Flow  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]() |
-| Chapter 5: Functions  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]()  |
-| Chapter 6: Modules  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]()  |
-| Chapter 7: Classes  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]()  |
-| Chapter 8: Exceptions  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]()  |
-| Chapter 9: Input and output (I/O) operations  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]()  |
-| Chapter 10: Miscellaneous  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]()  |
+| Chapter 1: Introduction | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1LuqUIC1qBXeMU_lhSNAC1I05iGhyYkx5)  |
+| Chapter 2: Programming Basics  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1LuqUIC1qBXeMU_lhSNAC1I05iGhyYkx5)  |
+| Chapter 3: Operators  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]() |
+| Chapter 4: Data Collections  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]()  |
+| Chapter 5: Control Flow  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]() |
+| Chapter 6: Functions  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]()  |
+| Chapter 7: Modules  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]()  |
+| Chapter 8: Classes  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]()  |
+| Chapter 9: Exceptions  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]()  |
+| Chapter 10: Input and output (I/O) operations  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]()  |
+| Chapter 11: Miscellaneous  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]()  |
 
 > [!TIP]
 > We recommend using [Google Colab](https://colab.research.google.com/) and [Jupyter Notebook](https://jupyter.org/) for all examples because it requires no local installation and provides a stable preconfigured environment. Always save copies of your notebooks before making major modifications to the code. Run notebook cells sequentially from top to bottom to avoid dependency and variable errors. Different Python package versions may produce slightly different results. Using the versions listed in this book is recommended.
