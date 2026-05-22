@@ -1,8 +1,4 @@
-![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)
-
-![Jupyter](https://jupyter.org/assets/homepage/main-logo.svg)
-
-![Open OnDemand](https://openondemand.org/wp-content/uploads/2022/05/Open-OnDemand-Logo.png)
+![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg) ![Jupyter](https://jupyter.org/assets/homepage/main-logo.svg) ![Open OnDemand](https://raw.githubusercontent.com/OSC/ondemand/master/apps/dashboard/public/apple-touch-icon.png)
 
 This repository contains the source code for all examples presented in the book Hands-On-Python-Programming.
 
