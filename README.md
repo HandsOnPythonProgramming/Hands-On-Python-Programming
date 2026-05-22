@@ -37,8 +37,3 @@ The workflows and notebooks presented in this book are intended for students wit
 
 > [!TIP]
 > We recommend using [Google Colab](https://colab.research.google.com/) and [Jupyter Notebook](https://jupyter.org/) for all examples because it requires no local installation and provides a stable preconfigured environment. Always save copies of your notebooks before making major modifications to the code. Run notebook cells sequentially from top to bottom to avoid dependency and variable errors. Different Python package versions may produce slightly different results. Using the versions listed in this book is recommended.
-
-<a href="https://github.com/HandsOnPythonProgramming/Hands-On-Python-Programming"><img src="https://img.shields.io/badge/GitHub%20Repository-black?logo=github"></a>
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/HandsOnPythonProgramming/Hands-On-Python-Programming)
-<a href="https://jupyter.org/"><img src="https://img.shields.io/badge/Jupyter-Notebook-orange?logo=jupyter" alt="Jupyter Notebook"/></a>
-<a href="https://openondemand.org/" target="_parent"><img src="https://img.shields.io/badge/Open%20OnDemand-HPC-blue" alt="Open OnDemand"/></a>
