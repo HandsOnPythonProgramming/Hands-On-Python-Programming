@@ -2,7 +2,7 @@
 
 This repository contains the source code for all examples presented in the book Hands-On-Python-Programming.
 
-Hands-On Python Programming introduces the Python programming language through a practical, hands-on approach designed to help readers quickly develop real programming skills. The book focuses on building a clear understanding of fundamental programming concepts while guiding readers through the essential tools, techniques, and workflows used in modern Python development.
+Hands-On-Python-Programming introduces the Python programming language through a practical, hands-on approach designed to help readers quickly develop real programming skills. The book focuses on building a clear understanding of fundamental programming concepts while guiding readers through the essential tools, techniques, and workflows used in modern Python development.
 
 The code provided in this repository corresponds to the examples and exercises discussed in the book and is intended to help readers reproduce results, explore variations of the programs, and deepen their understanding of Python programming. These examples cover a wide range of foundational topics, including variables, data structures, control flow, functions, and practical problem-solving techniques.
 
