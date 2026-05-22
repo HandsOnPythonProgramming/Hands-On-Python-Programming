@@ -11,7 +11,7 @@ The code provided in this repository corresponds to the examples and exercises d
 
 By working through the examples in this repository alongside the book, readers can develop a strong foundation in Python and gain the confidence needed to write clear, effective, and maintainable code.
 
-<img width="25" height="38" alt="Book_cover" src="<img width="24" height="35" alt="Book_cover" src="https://github.com/user-attachments/assets/c55544a2-14be-4990-923a-f75e4e97fa89" />
+<img width="25" height="38" alt="Book_cover" src="<img width="124" height="135" alt="Book_cover" src="https://github.com/user-attachments/assets/c55544a2-14be-4990-923a-f75e4e97fa89" />
 <H1> Table of Contents </H1>
 
 The workflows and notebooks presented in this book are intended for students with little or no prior programming experience. All examples are compatible with both [Google Colab](https://colab.research.google.com/) and [Jupyter Notebook](https://jupyter.org/). All example notebooks can be directly uploaded and executed on the HPC system through [Open OnDemand (OOD)](https://openondemand.org/).
