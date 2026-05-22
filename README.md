@@ -1,6 +1,6 @@
-<a href="https://www.amazon.com">
-  <img src="https://img.shields.io/badge/Buy%20the%20Book!-grey?logo=amazon">
-</a>
+<a href="https://github.com/HandsOnPythonProgramming/Hands-On-Python-Programming"><img src="https://img.shields.io/badge/GitHub%20Repository-black?logo=github"></a>
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/HandsOnPythonProgramming/Hands-On-Python-Programming)
+<a href="https://openondemand.org/" target="_parent"><img src="https://img.shields.io/badge/Open%20OnDemand-HPC-blue" alt="Open OnDemand"/></a>
 
 
 
