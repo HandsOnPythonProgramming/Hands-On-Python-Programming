@@ -23,17 +23,17 @@ The workflows and notebooks presented in this book are intended for students wit
 
 | Chapter  | Notebook  |
 |---|---|
-| Chapter 1: Introduction | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1baeYHu1PyUGktt8khEksilVWJ1y8jM1e#scrollTo=IIB88iwPO5F-) |
-| Chapter 2: Programming Basics | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1KkuCVdDRiKAT6W6i9YdM-nIgklCQs0Z8#scrollTo=v1p1Jg8o0t0h) |
-| Chapter 3: Operators  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]() |
-| Chapter 4: Data Collections  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]()  |
-| Chapter 5: Control Flow  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]() |
-| Chapter 6: Functions  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]()  |
-| Chapter 7: Modules  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]()  |
-| Chapter 8: Classes  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]()  |
-| Chapter 9: Exceptions  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]()  |
-| Chapter 10: Input and Output (I/O) Operations  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]()  |
-| Chapter 11: Miscellaneous  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]()  |
+| Chapter 1: Introduction | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]([https://colab.research.google.com/drive/1baeYHu1PyUGktt8khEksilVWJ1y8jM1e#scrollTo=IIB88iwPO5F-](https://colab.research.google.com/drive/1baeYHu1PyUGktt8khEksilVWJ1y8jM1e)) |
+| Chapter 2: Programming Basics | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]([https://colab.research.google.com/drive/1KkuCVdDRiKAT6W6i9YdM-nIgklCQs0Z8#scrollTo=v1p1Jg8o0t0h](https://colab.research.google.com/drive/1KkuCVdDRiKAT6W6i9YdM-nIgklCQs0Z8)) |
+| Chapter 3: Operators  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/160XirGu0_XQI3Xs8Dx6QDCQqwZT6X6Vf) |
+| Chapter 4: Data Collections  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1y-HG7XZD3a0dIK6hfSx8BYS36GmY4bVp)  |
+| Chapter 5: Control Flow  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1N4tvnPcuNi6MH9xVmeMdOFj3MrrkszfT) |
+| Chapter 6: Functions  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1pKk5jXQo8kWEEv6ebIwxDFHuHgeQjRK6)  |
+| Chapter 7: Modules  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1xA6aEJScjdRH-lDefd3CScLHZZxrsbYO)  |
+| Chapter 8: Classes  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Xrj3hf8_0KSyT80STdfGMAZKFnX8PrZo)  |
+| Chapter 9: Exceptions  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1pku8RpFEgxQVr-03SmwGh5WELh53uGtT)  |
+| Chapter 10: Input and Output (I/O) Operations  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1ajUZnNq-DLYn1r-jszfKVoui1v3qVdjS)  |
+| Chapter 11: Miscellaneous  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1oXnDCAtN8p-LKH4iqs1RMu2DDf8Wa9IS)  |
 
 > [!TIP]
 > We recommend using [Google Colab](https://colab.research.google.com/) and [Jupyter Notebook](https://jupyter.org/) for all examples because it requires no local installation and provides a stable preconfigured environment. Always save copies of your notebooks before making major modifications to the code. Run notebook cells sequentially from top to bottom to avoid dependency and variable errors. Different Python package versions may produce slightly different results. Using the versions listed in this book is recommended.
