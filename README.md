@@ -1,4 +1,3 @@
-<img width="1024" height="1535" alt="Book_cover" src="https://github.com/user-attachments/assets/ec34711f-726b-42c2-bbc4-f7927c735330" />
 <a href="https://github.com/HandsOnPythonProgramming/Hands-On-Python-Programming"><img src="https://img.shields.io/badge/GitHub%20Repository-black?logo=github"></a>
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/HandsOnPythonProgramming/Hands-On-Python-Programming)
 <a href="https://jupyter.org/"><img src="https://img.shields.io/badge/Jupyter-Notebook-orange?logo=jupyter" alt="Jupyter Notebook"/></a>
@@ -12,7 +11,7 @@ The code provided in this repository corresponds to the examples and exercises d
 
 By working through the examples in this repository alongside the book, readers can develop a strong foundation in Python and gain the confidence needed to write clear, effective, and maintainable code.
 
-<img width="256" height="384" alt="Book_cover" src="<img width="1024" height="1535" alt="Book_cover" src="https://github.com/user-attachments/assets/c55544a2-14be-4990-923a-f75e4e97fa89" />
+<img width="25" height="38" alt="Book_cover" src="<img width="1024" height="1535" alt="Book_cover" src="https://github.com/user-attachments/assets/c55544a2-14be-4990-923a-f75e4e97fa89" />
 <H1> Table of Contents </H1>
 
 The workflows and notebooks presented in this book are intended for students with little or no prior programming experience. All examples are compatible with both [Google Colab](https://colab.research.google.com/) and [Jupyter Notebook](https://jupyter.org/). All example notebooks can be directly uploaded and executed on the HPC system through [Open OnDemand (OOD)](https://openondemand.org/).
