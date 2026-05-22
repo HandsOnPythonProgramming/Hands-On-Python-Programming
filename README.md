@@ -1,3 +1,7 @@
+<a href="https://www.amazon.com">
+  <img src="https://img.shields.io/badge/Buy%20the%20Book!-grey?logo=amazon">
+</a>
+
 ![Git Hub] ("https://github.com/HandsOnPythonProgramming/Hands-On-Python-Programming)]    
 img src=\"https://img.shields.io/badge/GitHub%20Repository-black?logo=github\"
 
