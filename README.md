@@ -32,7 +32,7 @@ The workflows and notebooks presented in this book are intended for students wit
 | Chapter 7: Modules  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]()  |
 | Chapter 8: Classes  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]()  |
 | Chapter 9: Exceptions  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]()  |
-| Chapter 10: Input and output (I/O) operations  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]()  |
+| Chapter 10: Input and Output (I/O) Operations  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]()  |
 | Chapter 11: Miscellaneous  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]()  |
 
 > [!TIP]
