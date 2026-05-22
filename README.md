@@ -2,11 +2,7 @@
   <img src="https://img.shields.io/badge/Buy%20the%20Book!-grey?logo=amazon">
 </a>
 
-![Git Hub] ("https://github.com/HandsOnPythonProgramming/Hands-On-Python-Programming)]    
-img src=\"https://img.shields.io/badge/GitHub%20Repository-black?logo=github\"
 
-![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](Hands-On-Python-Programming)
-![Open OnDemand]("https://openondemand.org/\" target=\"_parent\"><img src=\"https://img.shields.io/badge/Open%20OnDemand-HPC-blue\" alt=\"Open OnDemand\"/>)
 
 This repository contains the source code for all examples presented in the book Hands-On-Python-Programming.
 
