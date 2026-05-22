@@ -11,7 +11,7 @@ The code provided in this repository corresponds to the examples and exercises d
 
 By working through the examples in this repository alongside the book, readers can develop a strong foundation in Python and gain the confidence needed to write clear, effective, and maintainable code.
 
-<div style="display: inline-block; padding: 8px; background-color: black;">
+<div style="display: inline-block; padding: 20px; background-color: black;">
   <img 
       height="450"
       alt="Book_cover"
