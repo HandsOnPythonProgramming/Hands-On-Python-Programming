@@ -15,7 +15,6 @@ By working through the examples in this repository alongside the book, readers c
     src="https://github.com/user-attachments/assets/c55544a2-14be-4990-923a-f75e4e97fa89"
     alt="Book_cover"
     width="350"
-    border="10"
   />
 
 <H1> Table of Contents </H1>
