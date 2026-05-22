@@ -15,18 +15,18 @@ We advise to run all examples through Google Colab for the easiest setup. Google
 
 | Chapter  | Notebook  |
 |---|---|
-| Chapter 1: Introduction to Language Models  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)   |
-| Chapter 2: Tokens and Embeddings  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)  |
-| Chapter 3: Looking Inside Transformer LLMs  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)  |
-| Chapter 4: Text Classification  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)  |
+| Chapter 1: Introduction to Language Models  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]()  |
+| Chapter 2: Tokens and Embeddings  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]() |
+| Chapter 3: Looking Inside Transformer LLMs  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]()  |
+| Chapter 4: Text Classification  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]() |
 | Chapter 5: Text Clustering and Topic Modeling  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]()  |
-| Chapter 6: Prompt Engineering  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)  |
-| Chapter 7: Advanced Text Generation Techniques and Tools  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)  |
-| Chapter 8: Semantic Search and Retrieval-Augmented Generation  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)  |
+| Chapter 6: Prompt Engineering  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]()  |
+| Chapter 7: Advanced Text Generation Techniques and Tools  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]()  |
+| Chapter 8: Semantic Search and Retrieval-Augmented Generation  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]()  |
 | Chapter 9: Multimodal Large Language Models  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]()  |
-| Chapter 10: Creating Text Embedding Models  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)  |
+| Chapter 10: Creating Text Embedding Models  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]()  |
 | Chapter 11: Fine-tuning Representation Models for Classification  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]()  |
-| Chapter 12: Fine-tuning Generation Models  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)  |
+| Chapter 12: Fine-tuning Generation Models  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]() |
 
 > [!TIP]
 > You can check the [setup](.setup/) folder for a quick-start guide to install all packages locally and you can check the [conda](.setup/conda/) folder for a complete guide on how to setup your environment, including conda and PyTorch installation.
