@@ -15,7 +15,7 @@ By working through the examples in this repository alongside the book, readers c
     height="450"
     alt="Book_cover"
     src="https://github.com/user-attachments/assets/c55544a2-14be-4990-923a-f75e4e97fa89"
-    style="border: 3px solid black;"
+    style="border: 6px solid black; padding: 4px;"
 />
 <H1> Table of Contents </H1>
 
