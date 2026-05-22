@@ -9,24 +9,22 @@ The code provided in this repository corresponds to the examples and exercises d
 By working through the examples in this repository alongside the book, readers can develop a strong foundation in Python and gain the confidence needed to write clear, effective, and maintainable code.
 
 <img width="256" height="384" alt="Book_cover" src="https://github.com/user-attachments/assets/fa0b7afa-26b0-4d42-8f83-f9bc8918b48b" />
-## Table of Contents
+<H1> Table of Contents </H1>
 
-We advise to run all examples through Google Colab for the easiest setup. Google Colab allows you to use a T4 GPU with 16GB of VRAM for free. All examples were mainly built and tested using Google Colab, so it should be the most stable platform. However, any other cloud provider should work. 
+We suggest running all examples on Google Colab. All examples are built and tested using Google Colab, so it should be the most stable platform. However, you can use Python . 
 
 | Chapter  | Notebook  |
 |---|---|
-| Chapter 1: Introduction to Language Models  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]()  |
-| Chapter 2: Tokens and Embeddings  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]() |
-| Chapter 3: Looking Inside Transformer LLMs  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]()  |
-| Chapter 4: Text Classification  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]() |
-| Chapter 5: Text Clustering and Topic Modeling  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]()  |
-| Chapter 6: Prompt Engineering  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]()  |
-| Chapter 7: Advanced Text Generation Techniques and Tools  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]()  |
-| Chapter 8: Semantic Search and Retrieval-Augmented Generation  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]()  |
-| Chapter 9: Multimodal Large Language Models  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]()  |
-| Chapter 10: Creating Text Embedding Models  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]()  |
-| Chapter 11: Fine-tuning Representation Models for Classification  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]()  |
-| Chapter 12: Fine-tuning Generation Models  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]() |
+| Chapter 1: Python Programming Basics  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]()  |
+| Chapter 2: Operators  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]() |
+| Chapter 3: Data Collections  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]()  |
+| Chapter 4: Control Flow  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]() |
+| Chapter 5: Functions  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]()  |
+| Chapter 6: Modules  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]()  |
+| Chapter 7: Classes  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]()  |
+| Chapter 8: Exceptions  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]()  |
+| Chapter 9: Input and output (I/O) operations  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]()  |
+| Chapter 10: Miscellaneous  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]()  |
 
 > [!TIP]
 > You can check the [setup](.setup/) folder for a quick-start guide to install all packages locally and you can check the [conda](.setup/conda/) folder for a complete guide on how to setup your environment, including conda and PyTorch installation.
