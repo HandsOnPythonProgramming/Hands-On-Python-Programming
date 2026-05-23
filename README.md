@@ -11,6 +11,7 @@ Welcome! In this repository you will find the information and many examples thro
   <img src="https://img.shields.io/badge/LinkedIn-Oleg_Starovoytov-blue?logo=linkedin" alt="LinkedIn">
 </a>
 
+
 This repository contains the source code for all examples presented in the book Hands-On Python Programming.
 
 Hands-On Python Programming introduces the Python programming language through a practical, hands-on approach designed to help readers quickly develop real programming skills. The book focuses on building a clear understanding of fundamental programming concepts while guiding readers through the essential tools, techniques, and workflows used in modern Python development.
