@@ -1,3 +1,20 @@
+
+<div align="center">
+
+# 📘 Hands-On Python Programming
+
+### *Learn to write effective code*
+
+<br>
+
+![Status](https://img.shields.io/badge/Status-Active%20Learning-brown)
+![Language](https://img.shields.io/badge/Python-3.x-blue?logo=python)
+
+<br>
+
+</div>
+
+
 # Hands-On Python Programming
 
 ![Learn to write effective code](https://img.shields.io/badge/Learn%20to%20write%20effective%20code-brown)
