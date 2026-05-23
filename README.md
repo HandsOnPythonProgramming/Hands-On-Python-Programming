@@ -1,6 +1,7 @@
 ## Hands-On Python Programming
+Learn to write an effective code
 
-Welcome! In this repository you will find the information and many examples throughout the book Hands-On Python Programming written by Oleg N. Starovoytov. Learn the practical elements and concepts of the Python language today. 
+Welcome! In this repository you will find the information and many examples throughout the book Hands-On Python Programming written by Oleg N. Starovoytov. Learn to write effective code by following practical examples and concepts of the Python language today. 
 
 <a href="https://www.linkedin.com/in/oleg-starovoytov-4900271b5/">
   <img src="https://img.shields.io/badge/LinkedIn-Oleg_Starovoytov-blue?logo=linkedin" alt="LinkedIn">
