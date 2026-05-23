@@ -46,6 +46,17 @@ The workflows and notebooks presented in this book are intended for students wit
 > [!TIP]
 > I suggest using [![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/HandsOnPythonProgramming/Hands-On-Python-Programming) and [Jupyter Notebook](https://jupyter.org/) for all examples because it requires no local installation and provides a stable preconfigured environment. Always save copies of your notebooks before making major modifications to the code. Run notebook cells sequentially from top to bottom to avoid dependency and variable errors. Different Python package versions may produce slightly different results. Using the versions listed in this book is recommended.
 
+> [!CITE]
+
+@misc{starovoytov2026hands_on_python,
+  author       = {Starovoytov, Oleg N.},
+  title        = {Hands-On Python Programming: Chapter 1 - Introduction},
+  year         = {2026},
+  publisher    = {Amazon},
+  url          = {https://www.amazon.com/},
+  howpublished = {\url{https://github.com/HandsOnPythonProgramming/Hands-On-Python-Programming/blob/main/Chapter%201%20-%20Introduction.ipynb}},
+  note         = {GitHub notebook}
+}
 <a href="https://github.com/HandsOnPythonProgramming/Hands-On-Python-Programming"><img src="https://img.shields.io/badge/GitHub%20Repository-black?logo=github"></a>
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/HandsOnPythonProgramming/Hands-On-Python-Programming)
 <a href="https://jupyter.org/"><img src="https://img.shields.io/badge/Jupyter-Notebook-orange?logo=jupyter" alt="Jupyter Notebook"/></a>
