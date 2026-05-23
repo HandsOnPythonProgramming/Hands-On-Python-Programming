@@ -4,7 +4,7 @@ Learn to write an effective code
 Welcome! In this repository you will find the information and many examples throughout the book Hands-On Python Programming written by Oleg N. Starovoytov. Learn to write effective code by following practical examples and concepts of the Python language today. 
 
 <a href="https://www.linkedin.com/in/oleg-starovoytov-4900271b5/">
-  <img src="https://img.shields.io/badge/LinkedIn-Oleg_Starovoytov-blue?logo=linkedin" alt="LinkedIn">
+  <img src="https://img.shields.io/badge/LinkedIn-Oleg_N._Starovoytov-blue?logo=linkedin" alt="LinkedIn">
 </a>
 
 
@@ -61,6 +61,8 @@ Please consider citing the book if you consider it useful for your scientific re
   howpublished = {\url{https://github.com/HandsOnPythonProgramming/Hands-On-Python-Programming/blob/main/Chapter%201%20-%20Introduction.ipynb}},
   note         = {GitHub notebook}
 }
+
+
 <a href="https://github.com/HandsOnPythonProgramming/Hands-On-Python-Programming"><img src="https://img.shields.io/badge/GitHub%20Repository-black?logo=github"></a>
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/HandsOnPythonProgramming/Hands-On-Python-Programming)
 <a href="https://jupyter.org/"><img src="https://img.shields.io/badge/Jupyter-Notebook-orange?logo=jupyter" alt="Jupyter Notebook"/></a>
