@@ -1,0 +1,37 @@
+cff-version: 1.2.0
+title: "MEDLEY: Hands-On Python Programming"
+message: "If you use this repository, please cite it using the following metadata."
+type: software
+
+authors:
+  - family-names: Starovoytov
+    given-names: Oleg N.
+    orcid: ""
+
+year: 2026
+
+publisher: GitHub
+
+url: "https://github.com/HandsOnPythonProgramming/Hands-On-Python-Programming"
+
+repository-code: "https://github.com/HandsOnPythonProgramming/Hands-On-Python-Programming"
+
+keywords:
+  - Python
+  - Programming
+  - Education
+  - Jupyter Notebook
+
+license: "https://opensource.org/licenses/MIT"
+
+version: 1.0.0
+
+preferred-citation:
+  type: generic
+  title: "MEDLEY: Hands-On Python Programming"
+  authors:
+    - family-names: Starovoytov
+      given-names: Oleg N.
+  year: 2026
+  publisher: GitHub
+  url: "https://github.com/HandsOnPythonProgramming/Hands-On-Python-Programming"
