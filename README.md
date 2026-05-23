@@ -3,8 +3,8 @@
 
 <span style="color:brown;">
 <i>Learn to write effective code</i>
-</span>
 
+</span>
 
 Welcome! In this repository you will find the information and many examples throughout the book Hands-On Python Programming written by Oleg N. Starovoytov. Learn to write effective code by following practical examples and concepts of the Python language today. 
 
