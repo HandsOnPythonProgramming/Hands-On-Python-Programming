@@ -44,6 +44,7 @@ The workflows and notebooks presented in this book are intended for students wit
 | Chapter 10: Input and Output (I/O) Operations  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1ajUZnNq-DLYn1r-jszfKVoui1v3qVdjS)  |
 | Chapter 11: Miscellaneous  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1oXnDCAtN8p-LKH4iqs1RMu2DDf8Wa9IS)  |
 
+
 > [!TIP]
 > I suggest using [![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/HandsOnPythonProgramming/Hands-On-Python-Programming) and [Jupyter Notebook](https://jupyter.org/) for all examples because it requires no local installation and provides a stable preconfigured environment. Always save copies of your notebooks before making major modifications to the code. Run notebook cells sequentially from top to bottom to avoid dependency and variable errors. Different Python package versions may produce slightly different results. Using the versions listed in this book is recommended.
 
@@ -55,12 +56,12 @@ Please consider citing the book if you consider it useful for your scientific re
 
 @misc{starovoytov2026hands_on_python,
   author       = {Starovoytov, Oleg N.},
-  title        = {Hands-On Python Programming: Chapter 1 - Introduction},
+  title        = {Hands-On Python Programming},
   year         = {2026},
-  publisher    = {Amazon},
+  publisher    = {Github},
   url          = {https://www.amazon.com/},
-  howpublished = {\url{https://github.com/HandsOnPythonProgramming/Hands-On-Python-Programming/blob/main/Chapter%201%20-%20Introduction.ipynb}},
-  note         = {GitHub notebook}
+  howpublished = {https://github.com/HandsOnPythonProgramming/Hands-On-Python-Programming/edit/main/README.md},
+  note         = {Book}
 }
 
 ```
