@@ -1,6 +1,6 @@
 # Hands-On Python Programming
 
-![Learn](https://img.shields.io/badge/Learn-Effective_Code-brown)
+![Learn](https://img.shields.io/badge/Learn to write effective code-brown)
 
 Welcome! In this repository you will find the information and many examples throughout the book Hands-On Python Programming written by Oleg N. Starovoytov. Learn to write effective code by following practical examples and concepts of the Python language today. 
 
