@@ -54,17 +54,21 @@ Please consider citing the book if you consider it useful for your scientific re
 
 ```
 
-@misc{starovoytov2026hands_on_python,
-  author       = {Starovoytov, Oleg N.},
-  title        = {Hands-On Python Programming},
-  year         = {2026},
-  publisher    = {Github},
-  url          = {https://www.amazon.com/},
-  howpublished = {https://github.com/HandsOnPythonProgramming/Hands-On-Python-Programming/edit/main/README.md},
-  note         = {Book}
+@misc{starovoytov2026medley,
+  author    = {Starovoytov, Oleg N.},
+  title     = {MEDLEY: Hands-On Python Programming},
+  year      = {2026},
+  publisher = {GitHub},
+  url       = {https://github.com/HandsOnPythonProgramming/Hands-On-Python-Programming},
+  note      = {Chapter 1 - Introduction notebook:
+               https://github.com/HandsOnPythonProgramming/Hands-On-Python-Programming/blob/main/Chapter%201%20-%20Introduction.ipynb}
 }
 
 ```
+
+<a href="https://github.com/HandsOnPythonProgramming/Hands-On-Python-Programming/blob/main/CITATION.cff">
+  <img src="https://img.shields.io/badge/Cite-this%20project-blue?logo=github">
+</a>
 
 <a href="https://github.com/HandsOnPythonProgramming/Hands-On-Python-Programming"><img src="https://img.shields.io/badge/GitHub%20Repository-black?logo=github"></a>
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/HandsOnPythonProgramming/Hands-On-Python-Programming)
