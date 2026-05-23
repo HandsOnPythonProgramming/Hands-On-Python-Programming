@@ -46,7 +46,11 @@ The workflows and notebooks presented in this book are intended for students wit
 > [!TIP]
 > I suggest using [![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/HandsOnPythonProgramming/Hands-On-Python-Programming) and [Jupyter Notebook](https://jupyter.org/) for all examples because it requires no local installation and provides a stable preconfigured environment. Always save copies of your notebooks before making major modifications to the code. Run notebook cells sequentially from top to bottom to avoid dependency and variable errors. Different Python package versions may produce slightly different results. Using the versions listed in this book is recommended.
 
-> [!CITE]
+## Citation
+
+Please consider citing the book if you consider it useful for your scientific research work:
+
+```
 
 @misc{starovoytov2026hands_on_python,
   author       = {Starovoytov, Oleg N.},
