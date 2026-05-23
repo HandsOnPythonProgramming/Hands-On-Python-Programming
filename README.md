@@ -61,8 +61,7 @@ Please consider citing the book if you consider it useful for your scientific re
   year      = {2026},
   publisher = {GitHub},
   url       = {https://github.com/HandsOnPythonProgramming/Hands-On-Python-Programming},
-  note      = {Chapter 1 - Introduction notebook:
-               https://github.com/HandsOnPythonProgramming/Hands-On-Python-Programming/blob/main/Chapter%201%20-%20Introduction.ipynb}
+  note      = {https://github.com/HandsOnPythonProgramming/Hands-On-Python-Programming/edit/main/README.md}
 }
 
 ```
