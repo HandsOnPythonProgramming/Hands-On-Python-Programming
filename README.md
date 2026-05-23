@@ -4,7 +4,7 @@
 <a href="https://openondemand.org/" target="_parent"><img src="https://img.shields.io/badge/Open%20OnDemand-HPC-blue" alt="Open OnDemand"/></a>
 
 This repository contains the source code for all examples presented in the book Hands-On Python Programming.
-<a href=\"https://www.amazon.com\"><img src=\"https://img.shields.io/badge/Check%20the%20Book!-grey?logo=amazon\"></a>
+<a href="https://www.amazon.com"><img src="https://img.shields.io/badge/Check%20the%20Book!-grey?logo=amazon"></a>
 
 Hands-On Python Programming introduces the Python programming language through a practical, hands-on approach designed to help readers quickly develop real programming skills. The book focuses on building a clear understanding of fundamental programming concepts while guiding readers through the essential tools, techniques, and workflows used in modern Python development.
 
