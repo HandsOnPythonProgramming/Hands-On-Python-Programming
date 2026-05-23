@@ -1,8 +1,3 @@
-<a href="https://github.com/HandsOnPythonProgramming/Hands-On-Python-Programming"><img src="https://img.shields.io/badge/GitHub%20Repository-black?logo=github"></a>
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/HandsOnPythonProgramming/Hands-On-Python-Programming)
-<a href="https://jupyter.org/"><img src="https://img.shields.io/badge/Jupyter-Notebook-orange?logo=jupyter" alt="Jupyter Notebook"/></a>
-<a href="https://openondemand.org/" target="_parent"><img src="https://img.shields.io/badge/Open%20OnDemand-HPC-blue" alt="Open OnDemand"/></a>
-
 ## Hands-On Python Programming
 
 Welcome! In this repository you will find the information and many examples throughout the book Hands-On Python Programming written by Oleg N. Starovoytov. Learn the practical elements and concepts of the Python language today. 
@@ -21,6 +16,11 @@ The code provided in this repository corresponds to the examples and exercises d
 By working through the examples in this repository alongside the book, readers can develop a strong foundation in Python and gain the confidence needed to write clear, effective, and maintainable code.
 
 <a href="https://www.amazon.com"><img src="https://img.shields.io/badge/Coming%20soon%20!-grey?logo=amazon"></a>
+<a href="https://github.com/HandsOnPythonProgramming/Hands-On-Python-Programming"><img src="https://img.shields.io/badge/GitHub%20Repository-black?logo=github"></a>
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/HandsOnPythonProgramming/Hands-On-Python-Programming)
+<a href="https://jupyter.org/"><img src="https://img.shields.io/badge/Jupyter-Notebook-orange?logo=jupyter" alt="Jupyter Notebook"/></a>
+<a href="https://openondemand.org/" target="_parent"><img src="https://img.shields.io/badge/Open%20OnDemand-HPC-blue" alt="Open OnDemand"/></a>
+
 
   <img 
     src="https://github.com/user-attachments/assets/c55544a2-14be-4990-923a-f75e4e97fa89"
