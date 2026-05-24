@@ -45,17 +45,17 @@ The workflows and notebooks presented in this book are intended for students wit
 
 | Chapter  | Notebook  |
 |---|---|
-| Chapter 01: Introduction | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]([https://colab.research.google.com/drive/1baeYHu1PyUGktt8khEksilVWJ1y8jM1e#scrollTo=IIB88iwPO5F-](https://colab.research.google.com/drive/1baeYHu1PyUGktt8khEksilVWJ1y8jM1e)) |
-| Chapter 02: Programming Basics | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]([https://colab.research.google.com/drive/1KkuCVdDRiKAT6W6i9YdM-nIgklCQs0Z8#scrollTo=v1p1Jg8o0t0h](https://colab.research.google.com/drive/1KkuCVdDRiKAT6W6i9YdM-nIgklCQs0Z8)) |
-| Chapter 03: Operators  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/160XirGu0_XQI3Xs8Dx6QDCQqwZT6X6Vf) |
-| Chapter 04: Data Collections  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1y-HG7XZD3a0dIK6hfSx8BYS36GmY4bVp)  |
-| Chapter 05: Control Flow  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1N4tvnPcuNi6MH9xVmeMdOFj3MrrkszfT) |
-| Chapter 06: Functions  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1pKk5jXQo8kWEEv6ebIwxDFHuHgeQjRK6)  |
-| Chapter 07: Modules  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1xA6aEJScjdRH-lDefd3CScLHZZxrsbYO)  |
-| Chapter 08: Classes  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Xrj3hf8_0KSyT80STdfGMAZKFnX8PrZo)  |
+| Chapter 01: Introduction | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1baeYHu1PyUGktt8khEksilVWJ1y8jM1e#scrollTo=2zMTfbfDLDFy) |
+| Chapter 02: Programming Basics | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1KkuCVdDRiKAT6W6i9YdM-nIgklCQs0Z8#scrollTo=Jt1xMz0Y8buf) |
+| Chapter 03: Operators  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/160XirGu0_XQI3Xs8Dx6QDCQqwZT6X6Vf#scrollTo=3xCfEFMl8wL4) |
+| Chapter 04: Data Collections  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1y-HG7XZD3a0dIK6hfSx8BYS36GmY4bVp#scrollTo=GmhFl5pu87LT)  |
+| Chapter 05: Control Flow  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1N4tvnPcuNi6MH9xVmeMdOFj3MrrkszfT#scrollTo=NCkR3vR29I7O) |
+| Chapter 06: Functions  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1pKk5jXQo8kWEEv6ebIwxDFHuHgeQjRK6#scrollTo=64tRmdh_9XVM)  |
+| Chapter 07: Modules  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1xA6aEJScjdRH-lDefd3CScLHZZxrsbYO#scrollTo=1nRrqOqs9hyU)  |
+| Chapter 08: Classes  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Xrj3hf8_0KSyT80STdfGMAZKFnX8PrZo#scrollTo=wXWIbSH79x27)  |
 | Chapter 09: Exceptions  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1pku8RpFEgxQVr-03SmwGh5WELh53uGtT#scrollTo=hxYo3R80-Cex&line=23&uniqifier=1)  |
-| Chapter 10: Input and Output (I/O) Operations  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1ajUZnNq-DLYn1r-jszfKVoui1v3qVdjS)  |
-| Chapter 11: Miscellaneous  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1oXnDCAtN8p-LKH4iqs1RMu2DDf8Wa9IS)  |
+| Chapter 10: Input and Output (I/O) Operations  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1ajUZnNq-DLYn1r-jszfKVoui1v3qVdjS#scrollTo=nBx9imXA-Ucd)  |
+| Chapter 11: Miscellaneous  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1oXnDCAtN8p-LKH4iqs1RMu2DDf8Wa9IS#scrollTo=EEJI42hb-jLw)  |
 
 
 > [!TIP]
