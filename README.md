@@ -34,7 +34,7 @@ By working through the examples in this repository alongside the book, readers c
 
 
   <img 
-    src="https://github.com/user-attachments/assets/c55544a2-14be-4990-923a-f75e4e97fa89"
+    src="https://github.com/HandsOnPythonProgramming/Hands-On-Python-Programming/blob/main/Images/python_book_cover.jpg?raw=true"
     alt="Book_cover"
     width="350"
   />
