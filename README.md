@@ -30,7 +30,7 @@ The code provided in this repository corresponds to the examples and exercises d
 
 By working through the examples in this repository alongside the book, readers can develop a strong foundation in Python and gain the confidence needed to write clear, effective, and maintainable code.
 
-<a href="https://www.amazon.com"><img src="https://img.shields.io/badge/Publishing%20in%20progress%20!-red?logo=amazon"></a>
+<a href="https://www.amazon.com"><img src="https://img.shields.io/badge/Python%20programming%20!-red?logo=amazon"></a>
 
 
   <img 
