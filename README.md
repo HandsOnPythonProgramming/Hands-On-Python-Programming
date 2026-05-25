@@ -3,7 +3,7 @@
 
 # 📘 Hands-On Python Programming
 
-### *Learn to write effective code*
+### *Learn to write effective code with AI assistance*
 
 <br>
 
@@ -14,7 +14,7 @@
 
 </div>
 
-Welcome! In this repository you will find the information and many examples throughout the nootebooks Hands-On Python Programming written by Oleg N. Starovoytov. Learn to write effective code by following practical examples and concepts of the Python language today. 
+Welcome! In this repository you will find the information and many examples throughout the nootebook Hands-On Python Programming written by Oleg N. Starovoytov. Learn to write effective code with AI assistance by following practical examples and concepts of the Python language today. 
 
 <a href="https://www.linkedin.com/in/oleg-starovoytov-4900271b5/">
   <img src="https://img.shields.io/badge/LinkedIn-Oleg_N._Starovoytov-blue?logo=linkedin" alt="LinkedIn">
@@ -22,13 +22,13 @@ Welcome! In this repository you will find the information and many examples thro
 
 
 
-This repository contains the source code for all examples presented in the book Hands-On Python Programming.
+This repository contains the source code for all examples presented in the notebook Hands-On Python Programming.
 
-Hands-On Python Programming introduces the Python programming language through a practical, hands-on approach designed to help readers quickly develop real programming skills. The book focuses on building a clear understanding of fundamental programming concepts while guiding readers through the essential tools, techniques, and workflows used in modern Python development.
+Hands-On Python Programming introduces the Python programming language through a practical, hands-on approach designed to help readers quickly develop real programming skills. The notebook focuses on building a clear understanding of fundamental programming concepts while guiding readers through the essential tools, techniques, and workflows used in modern Python development.
 
-The code provided in this repository corresponds to the examples and exercises discussed in the book and is intended to help readers reproduce results, explore variations of the programs, and deepen their understanding of Python programming. These examples cover a wide range of foundational topics, including variables, data structures, control flow, functions, and practical problem-solving techniques.
+The code provided in this repository corresponds to the examples and exercises discussed in the notebook and is intended to help readers reproduce results, explore variations of the programs, and deepen their understanding of Python programming. These examples cover a wide range of foundational topics, including variables, data structures, control flow, functions, and practical problem-solving techniques.
 
-By working through the examples in this repository alongside the book, readers can develop a strong foundation in Python and gain the confidence needed to write clear, effective, and maintainable code.
+By working through the examples in this repository alongside the notebook, readers can develop a strong foundation in Python and gain the confidence needed to write clear, effective, and maintainable code.
 
 <a href="https://www.amazon.com"><img src="https://img.shields.io/badge/Python%20programming%20!-red?logo=amazon"></a>
 
@@ -41,7 +41,7 @@ By working through the examples in this repository alongside the book, readers c
 
 <H1> Table of Contents </H1>
 
-The workflows and notebooks presented in this book are intended for students with little or no prior programming experience. All examples are compatible with both [Google Colab](https://colab.research.google.com/) and [Jupyter Notebook](https://jupyter.org/). All example notebooks can be directly uploaded and executed on the HPC system through [Open OnDemand (OOD)](https://openondemand.org/).
+The workflows and notebooks presented in this book are intended for students with little or no prior programming experience. All examples are compatible with both [Google Colab](https://colab.research.google.com/) and [Jupyter Notebook](https://jupyter.org/). All examples in the notebook can be directly uploaded and executed on the HPC system through [Open OnDemand (OOD)](https://openondemand.org/).
 
 | Chapter  | Notebook  |
 |---|---|
@@ -64,7 +64,7 @@ The workflows and notebooks presented in this book are intended for students wit
 
 ## Citation
 
-Please consider citing the book if you consider it useful for your scientific research work:
+Please consider citing the notebook if you consider it useful for your scientific research work:
 
 ```
 
