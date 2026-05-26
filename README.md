@@ -1,7 +1,7 @@
 
 <div align="center">
 
-# 📘 Hands-On Python Programming
+# Hands-On Python Programming
 
 ### *Learn to write effective code with AI assistance*
 
@@ -34,7 +34,7 @@ By working through the examples in this repository alongside the notebook, reade
 
 
   <img 
-    src="https://github.com/HandsOnPythonProgramming/Hands-On-Python-Programming/blob/main/Images/python_book_cover.jpg?raw=true"
+    src="https://github.com/HandsOnPythonProgramming/Hands-On-Python-Programming/blob/main/Images/book_cover.jpg?raw=true)?raw=true"
     alt="Book_cover"
     width="350"
   />
