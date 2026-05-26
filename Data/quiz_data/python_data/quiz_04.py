@@ -1,10 +1,10 @@
 import json
+import requests
 import gradio as gr
 
-QUIZ_PATH = "https://github.com/HandsOnPythonProgramming/Hands-On-Python-Programming/blob/3d013ddbdc7261d5ef7753cdaa2d7b60a492731e/Data/quiz_data/json_data/quiz_04.json"
+QUIZ_URL = "https://raw.githubusercontent.com/HandsOnPythonProgramming/Hands-On-Python-Programming/main/Data/quiz_data/json_data/quiz_04.json"
 
-with open(QUIZ_PATH, "r") as f:
-    QUIZ = json.load(f)["quiz"]
+QUIZ = requests.get(QUIZ_URL).json()["quiz"]
 
 def load_question(index):
     q = QUIZ[index]
