@@ -45,7 +45,7 @@ The workflows and notebooks presented in this book are intended for students wit
 
 | Chapter  | Notebook  |
 |---|---|
-| Chapter 01: Introduction | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1baeYHu1PyUGktt8khEksilVWJ1y8jM1e#scrollTo=2zMTfbfDLDFy) |
+| Chapter 01: Introduction | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HandsOnPythonProgramming/Hands-On-Python-Programming/blob/main/Chapter%2001/Chapter%2001%20-%20Introduction.ipynb#scrollTo=2zMTfbfDLDFy) |
 | Chapter 02: Programming Basics | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1KkuCVdDRiKAT6W6i9YdM-nIgklCQs0Z8#scrollTo=Jt1xMz0Y8buf) |
 | Chapter 03: Operators  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/160XirGu0_XQI3Xs8Dx6QDCQqwZT6X6Vf#scrollTo=3xCfEFMl8wL4) |
 | Chapter 04: Data Collections  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1y-HG7XZD3a0dIK6hfSx8BYS36GmY4bVp#scrollTo=GmhFl5pu87LT)  |
@@ -56,7 +56,7 @@ The workflows and notebooks presented in this book are intended for students wit
 | Chapter 09: Exceptions  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1pku8RpFEgxQVr-03SmwGh5WELh53uGtT#scrollTo=hxYo3R80-Cex&line=23&uniqifier=1)  |
 | Chapter 10: Input and Output (I/O) Operations  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1ajUZnNq-DLYn1r-jszfKVoui1v3qVdjS#scrollTo=nBx9imXA-Ucd)  |
 | Chapter 11: Miscellaneous  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1oXnDCAtN8p-LKH4iqs1RMu2DDf8Wa9IS#scrollTo=EEJI42hb-jLw)  |
-| Chapter 12: Programming with LangChain  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HandsOnPythonProgramming/Hands-On-Python-Programming/blob/main/Chapter%2001/Chapter%2001%20-%20Introduction.ipynb#scrollTo=2zMTfbfDLDFy)  |
+| Chapter 12: Programming with LangChain  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Kc6fSiwdkfQDm_Z5qRQb9XlhTOcssNK5#scrollTo=tJhQilDrUhrr)  |
 
 
 > [!TIP]
