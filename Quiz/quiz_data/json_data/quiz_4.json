@@ -1,0 +1,69 @@
+{
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "single",
+      "question": "Which of the following is TRUE about Python lists?",
+      "options": [
+        "Lists are ordered and mutable",
+        "Lists are unordered and immutable",
+        "Lists can only store numbers",
+        "Lists cannot be sliced"
+      ],
+      "answer": "Lists are ordered and mutable"
+    },
+    {
+      "id": "q2",
+      "type": "single",
+      "question": "Which symbol is used to define a tuple?",
+      "options": [
+        "[]",
+        "{}",
+        "()",
+        "<>"
+      ],
+      "answer": "()"
+    },
+    {
+      "id": "q3",
+      "type": "single",
+      "question": "What does a dictionary store data as?",
+      "options": [
+        "Ordered numbers only",
+        "Key:value pairs",
+        "A sequence of characters",
+        "Immutable lists"
+      ],
+      "answer": "Key:value pairs"
+    },
+    {
+      "id": "q4",
+      "type": "single",
+      "question": "Which of the following is TRUE about sets in Python?",
+      "options": [
+        "Sets allow duplicate values",
+        "Sets are ordered collections",
+        "Sets are unordered and contain unique items",
+        "Sets must contain only strings"
+      ],
+      "answer": "Sets are unordered and contain unique items"
+    },
+    {
+      "id": "q5",
+      "type": "multi",
+      "question": "Which of the following are valid list methods?",
+      "options": [
+        "append()",
+        "insert()",
+        "extend()",
+        "count()",
+        "union()"
+      ],
+      "answer": [
+        "append()",
+        "insert()",
+        "extend()"
+      ]
+    }
+  ]
+}

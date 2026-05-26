@@ -1,0 +1,69 @@
+{
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "single",
+      "question": "What is LangChain primarily used for?",
+      "options": [
+        "Training new LLMs from scratch",
+        "Building workflows that connect LLMs to tools and data",
+        "Designing user interfaces",
+        "Storing large datasets"
+      ],
+      "answer": "Building workflows that connect LLMs to tools and data"
+    },
+    {
+      "id": "q2",
+      "type": "single",
+      "question": "Which component controls the logic flow and branching in AI workflows?",
+      "options": [
+        "LangChain",
+        "LangGraph",
+        "LangSmith",
+        "The LLM"
+      ],
+      "answer": "LangGraph"
+    },
+    {
+      "id": "q3",
+      "type": "single",
+      "question": "Which tool provides observability, debugging, and evaluation for LLM applications?",
+      "options": [
+        "LangChain",
+        "LangGraph",
+        "LangSmith",
+        "NumPy"
+      ],
+      "answer": "LangSmith"
+    },
+    {
+      "id": "q4",
+      "type": "single",
+      "question": "In the LLM workflow pipeline, which step sends the prompt to the model?",
+      "options": [
+        "retrieve",
+        "build prompt",
+        "call model",
+        "parse output"
+      ],
+      "answer": "call model"
+    },
+    {
+      "id": "q5",
+      "type": "multi",
+      "question": "Which tasks are commonly built using this architecture?",
+      "options": [
+        "RAG applications",
+        "AI agents",
+        "Workflow automation",
+        "Video game rendering",
+        "Spreadsheet formatting"
+      ],
+      "answer": [
+        "RAG applications",
+        "AI agents",
+        "Workflow automation"
+      ]
+    }
+  ]
+}
