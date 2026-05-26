@@ -56,7 +56,7 @@ The workflows and notebooks presented in this book are intended for students wit
 | Chapter 09: Exceptions  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1pku8RpFEgxQVr-03SmwGh5WELh53uGtT#scrollTo=hxYo3R80-Cex&line=23&uniqifier=1)  |
 | Chapter 10: Input and Output (I/O) Operations  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1ajUZnNq-DLYn1r-jszfKVoui1v3qVdjS#scrollTo=nBx9imXA-Ucd)  |
 | Chapter 11: Miscellaneous  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1oXnDCAtN8p-LKH4iqs1RMu2DDf8Wa9IS#scrollTo=EEJI42hb-jLw)  |
-| Chapter 12: Programming with LangChain  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HandsOnPythonProgramming/Hands-On-Python-Programming/blob/main/Chapter%2012%20-%20Programming%20with%20LangChain.ipynb#scrollTo=tJhQilDrUhrr)  |
+| Chapter 12: Programming with LangChain  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HandsOnPythonProgramming/Hands-On-Python-Programming/blob/main/Chapter%2012/Chapter%2012%20-%20Programming%20with%20LangChain.ipynb#)  |
 
 
 > [!TIP]
