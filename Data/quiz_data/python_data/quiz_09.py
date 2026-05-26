@@ -1,7 +1,7 @@
 import json
 import gradio as gr
 
-QUIZ_PATH = "/content/drive/MyDrive/quiz_data/json_data/quiz_9.json"
+QUIZ_PATH = "https://github.com/HandsOnPythonProgramming/Hands-On-Python-Programming/blob/63d955296a2f447867a7c76fd13afc1c16d11214/Data/quiz_data/json_data/quiz_09.json"
 
 with open(QUIZ_PATH, "r") as f:
     QUIZ = json.load(f)["quiz"]
