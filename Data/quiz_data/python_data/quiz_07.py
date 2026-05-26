@@ -2,7 +2,7 @@ import json
 import requests
 import gradio as gr
 
-QUIZ_URL = "https://raw.githubusercontent.com/HandsOnPythonProgramming/Hands-On-Python-Programming/main/Data/quiz_data/json_data/quiz_01.json"
+QUIZ_URL = "https://raw.githubusercontent.com/HandsOnPythonProgramming/Hands-On-Python-Programming/main/Data/quiz_data/json_data/quiz_07.json"
 
 QUIZ = requests.get(QUIZ_URL).json()["quiz"]
 
