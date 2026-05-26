@@ -1,0 +1,68 @@
+{
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "single",
+      "question": "Which operator is used for exponentiation in Python?",
+      "options": [
+        "^",
+        "**",
+        "^^",
+        "exp()"
+      ],
+      "answer": "**"
+    },
+    {
+      "id": "q2",
+      "type": "single",
+      "question": "What does the modulus operator (%) return?",
+      "options": [
+        "The quotient of a division",
+        "The remainder of a division",
+        "The largest integer less than the result",
+        "The absolute value of a number"
+      ],
+      "answer": "The remainder of a division"
+    },
+    {
+      "id": "q3",
+      "type": "single",
+      "question": "Which of the following is a logical operator in Python?",
+      "options": [
+        "and",
+        "&",
+        "++",
+        "==="
+      ],
+      "answer": "and"
+    },
+    {
+      "id": "q4",
+      "type": "single",
+      "question": "Which operator checks whether two variables refer to the same object in memory?",
+      "options": [
+        "==",
+        "!=",
+        "is",
+        "in"
+      ],
+      "answer": "is"
+    },
+    {
+      "id": "q5",
+      "type": "multi",
+      "question": "Which of the following are membership operators in Python?",
+      "options": [
+        "in",
+        "not in",
+        "is",
+        "and",
+        "or"
+      ],
+      "answer": [
+        "in",
+        "not in"
+      ]
+    }
+  ]
+}

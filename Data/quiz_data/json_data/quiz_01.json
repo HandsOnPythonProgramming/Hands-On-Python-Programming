@@ -1,0 +1,35 @@
+{
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "single",
+      "question": "What is Python commonly known for?",
+      "options": [
+        "Being difficult to read and write",
+        "Emphasizing readability and simplicity",
+        "Only running on Windows and Mac",
+        "Being a low-level machine language"
+      ],
+      "answer": "Emphasizing readability and simplicity"
+    },
+    {
+      "id": "q2",
+      "type": "single",
+      "question": "Which of the following is one of the three ways to run Python code?",
+      "options": ["Browser-only mode", "Hardware mode", "Spreadsheet mode", "Interactive mode"],
+      "answer": "Interactive mode"
+    },
+    {
+      "id": "q3",
+      "type": "multi",
+      "question": "What is Gemini used for in this course?",
+      "options": [
+        "Explaining Python concepts",
+        "Debugging code",
+        "Replacing the need to think",
+        "Suggesting improvements to code"
+      ],
+      "answer": ["Explaining Python concepts", "Debugging code", "Suggesting improvements to code"]
+    }
+  ]
+}
