@@ -6,9 +6,6 @@ QUIZ_URL = "https://raw.githubusercontent.com/HandsOnPythonProgramming/Hands-On-
 
 QUIZ = requests.get(QUIZ_URL).json()["quiz"]
 
-with open(QUIZ_PATH, "r") as f:
-    QUIZ = json.load(f)["quiz"]
-
 def load_question(index):
     q = QUIZ[index]
     return q["question"], q["options"], q["type"], q["id"]
