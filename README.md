@@ -79,31 +79,6 @@ Please consider citing the notebook if you consider it useful for your scientifi
 
 ```
 
-## 📘 Recommended Reading
-
-<div align="center">
-
-<a href="https://www.simonandschuster.com/books/Grokking-Data-Structures/Marcello-La-Rocca/9781633436992">
-
-<img
-    src="https://raw.githubusercontent.com/HandsOnPythonProgramming/Hands-On-Python-Programming/08c4150b7a4c235d5357d322196c17b718f22ac1/Images/grokking-data-structures.jpg"
-    alt="Grokking Data Structures"
-    width="320"
-/>
-
-</a>
-
-<br><br>
-
-<a href="https://www.simonandschuster.com/books/Grokking-Data-Structures/Marcello-La-Rocca/9781633436992">
-
-<img src="https://img.shields.io/badge/Buy%20the%20Book-blue?logo=bookstack&logoColor=white"/>
-
-</a>
-
-</div>
-
-
 <a href="https://github.com/HandsOnPythonProgramming/Hands-On-Python-Programming/blob/main/CITATION.cff"><img src="https://img.shields.io/badge/Cite-this%20project-blue?logo=github"></a>
 <a href="https://github.com/HandsOnPythonProgramming/Hands-On-Python-Programming"><img src="https://img.shields.io/badge/GitHub%20Repository-black?logo=github"></a>
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/HandsOnPythonProgramming/Hands-On-Python-Programming)
