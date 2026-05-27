@@ -2,10 +2,10 @@
 
 <p align="center">
   <a href="https://www.thriftbooks.com/w/grokking-data-structures/52813543/?resultid=6baef103-b3c3-40e6-884f-61c542d44691#edition=71316039&idiq=64251733">
-    <img 
-      src="https://images.manning.com/360/480/resize/book/6/99dff34-0f5e-4d57-83b1-c9e5d5a4e9b4/LaRocca-GrokkingDataStructures-HI.png"
+    <img
+      src="https://www.manning.com/covers/360/480/resize/book/6/99dff34-0f5e-4d57-83b1-c9e5d5a4e9b4/LaRocca-GrokkingDataStructures-HI.png"
       alt="Grokking Data Structures"
-      width="300"
+      width="320"
     />
   </a>
 </p>
