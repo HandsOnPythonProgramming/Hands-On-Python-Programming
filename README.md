@@ -62,6 +62,12 @@ The workflows and notebooks presented in this book are intended for students wit
 > [!TIP]
 > I suggest using [Google Colab](https://colab.research.google.com/) and [Jupyter Notebook](https://jupyter.org/) for all examples because it requires no local installation and provides a stable preconfigured environment. Always save copies of your notebooks before making major modifications to the code. Run notebook cells sequentially from top to bottom to avoid dependency and variable errors. Different Python package versions may produce slightly different results. Using the versions listed in this book is recommended.
 
+# Recommended Reading
+
+<a href="https://www.simonandschuster.com/books/Grokking-Data-Structures/Marcello-La-Rocca/9781633436992">
+    <img src="https://img.shields.io/badge/Buy%20the%20Book-blue?logo=bookstack&logoColor=white" />
+</a>
+
 ## Citation
 
 Please consider citing the notebook if you consider it useful for your scientific research work:
