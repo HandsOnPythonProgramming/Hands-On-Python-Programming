@@ -1,24 +1,23 @@
 ## 📘 Suggested Reading
 
-<div align="center">
+<p align="center">
+  <a href="https://www.thriftbooks.com/w/grokking-data-structures/52813543/?resultid=6baef103-b3c3-40e6-884f-61c542d44691#edition=71316039&idiq=64251733">
+    <img 
+      src="https://images.manning.com/360/480/resize/book/6/99dff34-0f5e-4d57-83b1-c9e5d5a4e9b4/LaRocca-GrokkingDataStructures-HI.png"
+      alt="Grokking Data Structures"
+      width="300"
+    />
+  </a>
+</p>
 
-<a href="https://www.simonandschuster.com/books/Grokking-Data-Structures/Marcello-La-Rocca/9781633436992">
+<p align="center">
+  <b>Grokking Data Structures</b><br>
+  Marcello La Rocca
+</p>
 
-<img
-    src="https://raw.githubusercontent.com/HandsOnPythonProgramming/Hands-On-Python-Programming/08c4150b7a4c235d5357d322196c17b718f22ac1/Images/grokking-data-structures.jpg"
-    alt="Grokking Data Structures"
-    width="320"
-/>
-
-</a>
-
-<br><br>
-
-<a href="https://www.simonandschuster.com/books/Grokking-Data-Structures/Marcello-La-Rocca/9781633436992">
-
-</a>
-
-</div>
+<p align="center">
+  <i>A Visual and Practical Guide to Modern Data Structures</i>
+</p>
 
 <p align="center">
   <a href="https://www.thriftbooks.com/w/computer-systems-a-programmers-perspective_david-r-ohallaron_randal-e-bryant/247389/?srsltid=AfmBOoorTdHRjuFiU4RMz0wOs7EGXvTN50nTYtE3wBHn9sNR_X0-A70S#edition=7161912&idiq=4607381">
