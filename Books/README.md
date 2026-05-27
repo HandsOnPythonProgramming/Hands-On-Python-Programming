@@ -16,8 +16,6 @@
 
 <a href="https://www.simonandschuster.com/books/Grokking-Data-Structures/Marcello-La-Rocca/9781633436992">
 
-<img src="https://img.shields.io/badge/Buy%20the%20Book-blue?logo=bookstack&logoColor=white"/>
-
 </a>
 
 </div>
@@ -36,5 +34,3 @@
   <b>Computer Systems: A Programmer’s Perspective</b><br>
   Randal E. Bryant & David R. O'Hallaron
 </p>
-
-<img src="https://img.shields.io/badge/Buy%20the%20Book-blue?logo=bookstack&logoColor=white"/>
