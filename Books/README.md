@@ -1,5 +1,7 @@
 ## 📘 Suggested Reading
 
+## Data Structures Book
+
 <div align="center">
 
 <a href="https://www.simonandschuster.com/books/Grokking-Data-Structures/Marcello-La-Rocca/9781633436992">
@@ -22,7 +24,7 @@
 
 </div>
 
-## 📘 Suggested Systems Programming Book
+## Systems Programming Book
 
 <p align="center">
   <a href="https://www.thriftbooks.com/w/computer-systems-a-programmers-perspective_david-r-ohallaron_randal-e-bryant/247389/?srsltid=AfmBOoorTdHRjuFiU4RMz0wOs7EGXvTN50nTYtE3wBHn9sNR_X0-A70S#edition=7161912&idiq=4607381">
@@ -38,3 +40,5 @@
   <b>Computer Systems: A Programmer’s Perspective</b><br>
   Randal E. Bryant & David R. O'Hallaron
 </p>
+
+<img src="https://img.shields.io/badge/Buy%20the%20Book-blue?logo=bookstack&logoColor=white"/>
