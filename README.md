@@ -82,7 +82,11 @@ Please consider citing the notebook if you consider it useful for your scientifi
 # Recommended Reading
 
 <a href="https://www.simonandschuster.com/books/Grokking-Data-Structures/Marcello-La-Rocca/9781633436992">
-    <img src="https://img.shields.io/badge/Buy%20the%20Book-blue?logo=bookstack&logoColor=white" />
+    <img 
+        src="https://www.simonandschuster.net/covers/9781633436992"
+        alt="Grokking Data Structures"
+        width="300"
+    />
 </a>
 
 <a href="https://github.com/HandsOnPythonProgramming/Hands-On-Python-Programming/blob/main/CITATION.cff"><img src="https://img.shields.io/badge/Cite-this%20project-blue?logo=github"></a>
