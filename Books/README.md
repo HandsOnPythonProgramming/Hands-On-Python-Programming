@@ -44,7 +44,7 @@
 
 ---
 
-## Data Structures & Algorithms
+## Data Structures & Algorithms with Python
 
 <p align="center">
   <a href="https://www.thriftbooks.com/w/data-structures-and-algorithms-with-python_steve-hubbard_kent-d-lee/14081657/">
