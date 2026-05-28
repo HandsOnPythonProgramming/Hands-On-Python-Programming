@@ -1,3 +1,26 @@
+## Python Reference
+
+<p align="center">
+  <a href="https://www.thriftbooks.com/w/python-pocket-reference-pocket-reference-oreilly_mark-lutz/367942/">
+    <img
+      src="Images/python-pocket-reference.jpg"
+      alt="Python Pocket Reference"
+      width="320"
+    />
+  </a>
+</p>
+
+<p align="center">
+  <b>Python Pocket Reference</b><br>
+  Mark Lutz
+</p>
+
+<p align="center">
+  <i>Concise and practical quick-reference guide for Python developers</i>
+</p>
+
+---
+
 ## Data Structures & Algorithms
 
 <p align="center">
