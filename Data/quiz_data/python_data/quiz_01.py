@@ -49,8 +49,10 @@ with gr.Blocks() as demo:
     }
 
     .answer-options {
-      display: flex !important;
-      flex-direction: column !important;
+      display: block !important;
+      margin: 0.4rem 0 !important;
+      font-size: 1.1rem !important;
+      line-height: 1.3rem !important;
       align-items: center !important;
     }
 
