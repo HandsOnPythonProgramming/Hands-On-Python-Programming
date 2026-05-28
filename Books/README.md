@@ -85,3 +85,26 @@
 </p>
 
 ---
+
+## Coding Interview Preparation
+
+<p align="center">
+  <a href="https://www.thriftbooks.com/w/cracking-the-coding-interview_gayle-laakmann-mcdowell/256992/">
+    <img
+      src="Images/cracking-the-coding-interview.jpg"
+      alt="Cracking the Coding Interview"
+      width="320"
+    />
+  </a>
+</p>
+
+<p align="center">
+  <b>Cracking the Coding Interview</b><br>
+  Gayle Laakmann McDowell
+</p>
+
+<p align="center">
+  <i>189 Programming Questions and Solutions</i>
+</p>
+
+---
