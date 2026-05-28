@@ -21,6 +21,29 @@
 
 ---
 
+## Data Structures & Algorithms
+
+<p align="center">
+  <a href="https://www.thriftbooks.com/w/data-structures-and-algorithms-with-python_steve-hubbard_kent-d-lee/14081657/">
+    <img
+      src="Images/data-structures-and-algorithms-with-python.jpg"
+      alt="Data Structures and Algorithms with Python"
+      width="320"
+    />
+  </a>
+</p>
+
+<p align="center">
+  <b>Data Structures and Algorithms with Python</b><br>
+  Kent D. Lee & Steve Hubbard
+</p>
+
+<p align="center">
+  <i>Comprehensive introduction to algorithms, abstract data types, and problem-solving in Python</i>
+</p>
+
+---
+
 ## Computer Systems
 
 <p align="center">
