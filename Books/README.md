@@ -60,3 +60,28 @@
 <p align="center">
   <i>The Big Ideas Behind Reliable, Scalable, and Maintainable Systems</i>
 </p>
+
+---
+
+## AI Engineering
+
+<p align="center">
+  <a href="https://www.thriftbooks.com/w/ai-engineering-building-applications-with-foundation-models_chip-huyen/53468154/">
+    <img
+      src="Images/ai-engineering.jpg"
+      alt="AI Engineering"
+      width="320"
+    />
+  </a>
+</p>
+
+<p align="center">
+  <b>AI Engineering: Building Applications with Foundation Models</b><br>
+  Chip Huyen
+</p>
+
+<p align="center">
+  <i>Practical guide to building production-ready AI applications with foundation models</i>
+</p>
+
+---
