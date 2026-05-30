@@ -48,7 +48,7 @@ with gr.Blocks() as demo:
       text-align: center;
     }
 
-    .answer-options {
+    .answer-options .gr-form {
       display: flex !important;
       flex-direction: column !important;
       align-items: center !important;
@@ -75,9 +75,16 @@ with gr.Blocks() as demo:
       display: block !important;
     }
 
-    .gr-radio, .gr-checkbox {
+    .answer-options .gr-radio, 
+    .answer-options .gr-checkbox {
         display: block !important;
         margin: 0.5rem 0 !important;
+        width: 100% !important;
+        text-align: center !important;
+    }
+
+    .answer-options label {
+        display: block !important;
         width: 100% !important;
         text-align: center !important;
     }
