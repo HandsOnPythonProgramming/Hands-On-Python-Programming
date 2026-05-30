@@ -74,6 +74,20 @@ with gr.Blocks() as demo:
       margin: 0 auto !important;
       display: block !important;
     }
+
+    .gr-radio, .gr-checkbox {
+        display: block !important;
+        margin: 0.5rem 0 !important;
+        width: 100% !important;
+        text-align: center !important;
+    }
+
+    .gr-radio label, .gr-checkbox label {
+        font-size: 1.1rem !important;
+        line-height: 1.3rem !important;
+        text-align: center !important;
+    }
+    
     </style>
     """)
     with gr.Column(elem_classes=["quiz-container"]):
