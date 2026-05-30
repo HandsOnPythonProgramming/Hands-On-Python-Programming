@@ -49,16 +49,16 @@ with gr.Blocks() as demo:
     }
 
     .answer-options {
-      display: block !important;
-      margin: 0.4rem 0 !important;
-      font-size: 1.1rem !important;
-      line-height: 1.3rem !important;
+      display: flex !important;
+      flex-direction: column !important;
       align-items: center !important;
     }
 
     .answer-options label {
+      display: block !important;
+      margin: 0.4rem 0 !important;
       font-size: 1.1rem !important;
-      line-height: 1.0em !important;
+      line-height: 1.3rem !important;
       text-align: center;
     }
 
